@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MJ3005
-- 👀 I’m interested in lesrning how to code 
+- 👀 I’m interested in learning how to code 
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
